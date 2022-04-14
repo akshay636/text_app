@@ -11,8 +11,8 @@ Things you may want to cover:
 
 * Configuration
 changes made on readme file
-
-* Database creation
+ 
+* Database creation akshay
 
 * Database initialization
 
