@@ -12,7 +12,7 @@ Things you may want to cover:
 * Configuration
 changes made on readme file
  
-* Database creation akshay
+* Database creation aaksah
 
 * Database initialization
 
